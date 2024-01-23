@@ -1,9 +1,11 @@
-# Installation
-- 1) tap frist in setup
-- 2) Go to start
-- 3) Type py/python main.py in the command prompt
+# work for pc  w11/w10
 
-# DISCLAIMER 🚫
+# Installation
+# tap frist in setup
+# Go to start
+# Type py/python main.py in the command prompt
+
+
 - This was made for educational purposes
 - And please note that use a vpn when using this you will get rate limited
 
